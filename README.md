@@ -38,7 +38,7 @@ For Debian
 `sudo apt install geoipupdate`
 
 After:
-You will need to replace the `YOUR_LICENSE_KEY_HERE` placeholder with an active license key associated with your MaxMind account.
+You will need to replace the `YOUR_LICENSE_KEY_HERE` placeholder with an active license key associated with your MaxMind account. In your configuration directory `(e.g., /usr/local/etc/)` as `GeoIP.conf`
 
 maxminddb path `/var/lib/GeoIP/*.mmdb`
 
