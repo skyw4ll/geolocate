@@ -22,7 +22,7 @@ options:
   -h, --help         show this help message and exit
   -i IP, --ip IP     ip address
   -u URL, --url URL  url or hostname
-  -m, --maxmind      maxmind
+  -m, --maxmind      use the maxmind
 ```
 
 
