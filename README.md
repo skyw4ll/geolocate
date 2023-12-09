@@ -34,6 +34,9 @@ options:
 
 ### MaxMind Help
 
+For Arch
+`sudo pacman -S geoipupdate`
+
 For Debian
 `sudo apt install geoipupdate`
 
